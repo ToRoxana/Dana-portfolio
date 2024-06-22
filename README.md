@@ -54,7 +54,7 @@ Working with many editors and content managers, and collaborating with tech star
 
 - [Landing page: Built for Efficient, High-Performance Developers](https://codetruck.io)
 
-![ ](LP.png)
+![ ](https://github.com/ToRoxana/Dana-portfolio/blob/main/assets/LP.png)
 
 
 
