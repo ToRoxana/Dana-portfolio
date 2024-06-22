@@ -12,10 +12,10 @@ Working with many editors and content managers, and collaborating with tech star
 
 
 ## My 🎯 Writing Experience
-- Collaborated with
-| **Digital Tailors** | **Softbinator** | **Code Truck** |
-| **e-student.org**   | **CyberGhost**  | **Altrady**    | 
-| **BWARE LABS**      | **studyportals**| **3DLOOK**     | 
+- Collaborated with:
+ **Digital Tailors** | **Softbinator** | **Code Truck** 
+| **e-student.org**   | **CyberGhost**  | **Altrady**     
+| **BWARE LABS**      | **studyportals** | **3DLOOK** | 
 
 
 ## Check out part of my portfolio
@@ -63,7 +63,7 @@ Working with many editors and content managers, and collaborating with tech star
 
 
 
-## [Get in Touch](https://ro.linkedin.com/in/daniela-dana-valentina-vioreanu-48617b3a)
+# 🔗[Get in Touch](https://ro.linkedin.com/in/daniela-dana-valentina-vioreanu-48617b3a)
 Happy to embark on a new content adventure!
 
 In case you're reaching out for a project collaboration, please provide some information on your goals.
