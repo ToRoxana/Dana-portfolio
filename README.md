@@ -1,4 +1,4 @@
-# 🖋️ Portfolio
+# 🖋️ Content Marketer & Consultant
 ## Write short or long-form content with the end goal of simplifying your brand message. Ready to give it a go?
 With 8+ years of writing experience under my belt, I can juggle both **content writing & copywriting**. I love craftive engaging and informative pieces.
 
