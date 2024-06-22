@@ -1,6 +1,6 @@
 # 🖋️ Content Marketer & Consultant
 Content writer and copywriter with SEO skills 
-
+__________________________________________________________
 ## Write short or long-form content with the end goal of simplifying your brand message. Ready to give it a go?
 With 8+ years of writing experience under my belt, I can juggle both **content writing & copywriting**. I love crafting engaging and informative pieces.
 
@@ -16,7 +16,10 @@ Working with many editors and content managers, and collaborating with tech star
 #### 📰 Published Articles
 
 #### 📍 Content Marketing & Content Strategy
-- [Focused Question Clusters: Learning through Questions](https://e-student.org/focused-question-clusters/)>blockquote     
+- [Focused Question Clusters: Learning through Questions](https://e-student.org/focused-question-clusters/)
+
+> Here’s a common piece of advice you’ve kept hearing about ever since elementary school: taking notes is a valuable skill that can help you learn better, remember more, and organize your thoughts. By taking notes, you create your own personal record of the information, and it can be useful for future reference or study.
+
 
 #### 🔐 Online Privacy & Security
 - [Tutanota vs Protonmail: Which is Most Secure?](https://www.cyberghostvpn.com/privacyhub/tutanota-vs-protonmail/)
@@ -36,9 +39,11 @@ Working with many editors and content managers, and collaborating with tech star
 
 > Some see them as traitors, others treat them as heroes. Privacy whistleblowers helped change laws and standards. It also made technology companies revise their security practices. But, most of all, surveillance disclosures opened our eyes and made us look at government and state institutions from a different angle.
 
+
 #### 💻 Software & Product Development
 - [Introduction to Atomic Transactions – How A Simple Database Operation Can Highly Impact Your Business]( https://blog.softbinator.com/atomic-transactions-database-impact-business/)
 - [Questions Non-Tech Founders Have About Software Development](https://blog.softbinator.com/questions-non-tech-founders-software-development/)
+  
   
 #### 📈 Landing Pages & Website Copy
 - [Careers page: Join a Team of Brave Game-Changers Who Build Tech For Humanity](https://softbinator.com/careers/)
@@ -48,6 +53,7 @@ Working with many editors and content managers, and collaborating with tech star
 - [Landing page: Built for Efficient, High-Performance Developers](https://codetruck.io)
 
 ![ ](LP.png)
+
 
 
 ## Get in Touch
