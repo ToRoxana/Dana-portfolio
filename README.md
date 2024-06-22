@@ -8,23 +8,27 @@ With 8+ years of writing experience under my belt, I can juggle both **content w
 
 Working with many editors and content managers, and collaborating with tech start-ups throughout the years, I found that being part of a team is just as fun as writing on my own.
 
-### My 🎯 Writing Experience
+
+
+
+## My 🎯 Writing Experience
 - Collaborated with
 | **Digital Tailors** | **Softbinator** | **Code Truck** |
 | **e-student.org**   | **CyberGhost**  | **Altrady**    | 
 | **BWARE LABS**      | **studyportals**| **3DLOOK**     | 
 
-### Check out part of my portfolio
-#### 📰 Published Articles
 
-#### 📍 Content Marketing & Content Strategy
+## Check out part of my portfolio
+
+### 📰 Published Articles
+
+### 📍 Content Marketing & Content Strategy
 - [Focused Question Clusters: Learning through Questions](https://e-student.org/focused-question-clusters/)
 
 > Here’s a common piece of advice you’ve kept hearing about ever since elementary school: taking notes is a valuable skill that can help you learn better, remember more, and organize your thoughts. By taking notes, you create your own personal record of the information, and it can be useful for future reference or study.
 
 
-#### 🔐 Online Privacy & Security
-- [Tutanota vs Protonmail: Which is Most Secure?](https://www.cyberghostvpn.com/privacyhub/tutanota-vs-protonmail/)
+### 🔐 Online Privacy & Security
 - [6 Things A VPN Hides and Protects And What it Doesn’t](https://www.cyberghostvpn.com/privacyhub/what-does-vpn-hide/)
 
 > Feeling watched when you’re online? We’re all familiar with the feeling. You can never really tell when someone’s tracking you. But just how anonymous can you become when you’re connected to a VPN?
@@ -42,12 +46,12 @@ Working with many editors and content managers, and collaborating with tech star
 > Some see them as traitors, others treat them as heroes. Privacy whistleblowers helped change laws and standards. It also made technology companies revise their security practices. But, most of all, surveillance disclosures opened our eyes and made us look at government and state institutions from a different angle.
 
 
-#### 💻 Software & Product Development
+### 💻 Software & Product Development
 - [Introduction to Atomic Transactions – How A Simple Database Operation Can Highly Impact Your Business]( https://blog.softbinator.com/atomic-transactions-database-impact-business/)
 - [Questions Non-Tech Founders Have About Software Development](https://blog.softbinator.com/questions-non-tech-founders-software-development/)
   
   
-#### 📈 Landing Pages & Website Copy
+### 📈 Landing Pages & Website Copy
 - [Careers page: Join a Team of Brave Game-Changers Who Build Tech For Humanity](https://softbinator.com/careers/)
 
 > Commit to delivering the best software products. Have fun and celebrate each achievement
@@ -58,7 +62,8 @@ Working with many editors and content managers, and collaborating with tech star
 
 
 
-## Get in Touch
+
+## [Get in Touch](https://ro.linkedin.com/in/daniela-dana-valentina-vioreanu-48617b3a)
 Happy to embark on a new content adventure!
 
 In case you're reaching out for a project collaboration, please provide some information on your goals.
