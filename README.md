@@ -1,6 +1,8 @@
 # 🖋️ Content Marketer & Consultant
 Content writer and copywriter with SEO skills 
-__________________________________________________________
+
+---
+
 ## Write short or long-form content with the end goal of simplifying your brand message. Ready to give it a go?
 With 8+ years of writing experience under my belt, I can juggle both **content writing & copywriting**. I love crafting engaging and informative pieces.
 
