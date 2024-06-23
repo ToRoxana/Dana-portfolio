@@ -51,7 +51,7 @@ Working with many editors and content managers, and collaborating with tech star
   
 ### 📈 Landing Pages & Website Copy
 
-1. **[Careers page: Join a Team of Brave Game-Changers Who Build Tech For Humanity](https://softbinator.com/careers/)**
+1. **Careers page: [Join a Team of Brave Game-Changers Who Build Tech For Humanity](https://softbinator.com/careers/)**
 
     > Commit to delivering the best software products. Have fun and celebrate each achievement
 
@@ -62,7 +62,7 @@ Working with many editors and content managers, and collaborating with tech star
 
      > Here’s a common piece of advice you’ve kept hearing about ever since elementary school: taking notes is a valuable skill that can help you learn better, remember more, and organize your thoughts. By taking notes, you create your own personal record of the information, and it can be useful for future reference or study.
      
-5. **[Landing page: Built for Efficient, High-Performance Developers](https://codetruck.io)**
+5. **Landing page: [Built for Efficient, High-Performance Developers](https://codetruck.io)**
 
    ![ ](assets/LP.png)
 
