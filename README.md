@@ -54,6 +54,9 @@ Working with many editors and content managers, and collaborating with tech star
 1. **[Careers page: Join a Team of Brave Game-Changers Who Build Tech For Humanity](https://softbinator.com/careers/)**
 
     > Commit to delivering the best software products. Have fun and celebrate each achievement
+
+    ![ ](assets/CareersP.png)
+    ![ ](assets/CareersP2.png)
     
 3. **[Focused Question Clusters: Learning through Questions](https://e-student.org/focused-question-clusters/)**
 
