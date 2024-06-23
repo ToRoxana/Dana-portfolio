@@ -14,7 +14,7 @@ Working with many editors and content managers, and collaborating with tech star
 ## My 🎯 Writing Experience
 | Collaborated with | Logo |
 |---|---|
- **[Digital Tailors](https://www.digitaltailors.agency)![ ](logoDT.png)** | **[Softbinator](https://softbinator.com)![ ](logoSFTB.png)** | **[Code Truck](https://codetruck.io)** 
+ **[Digital Tailors](https://www.digitaltailors.agency)![ ](logoDT.png)** | **[Softbinator](https://softbinator.com)![ ](assets/logoSFTB.png)** | **[Code Truck](https://codetruck.io)** 
 | **[e-student.org](https://e-student.org)**   | **[CyberGhost](https://www.cyberghostvpn.com)**  | **[Altrady](https://www.altrady.com)**     
 | **[BWARE LABS](https://bwarelabs.com)**      | **[studyportals](https://studyportals.com)** | **[3DLOOK](https://3dlook.ai)** | 
 
