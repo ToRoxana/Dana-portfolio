@@ -17,9 +17,9 @@ Collaborated with: **[Digital Tailors](https://www.digitaltailors.agency)** | **
 | **[BWARE LABS](https://bwarelabs.com)** | **[studyportals](https://studyportals.com)** | **[3DLOOK](https://3dlook.ai)** 
 
 
-## Check out part of my portfolio
+# Check out part of my portfolio
 
-### 📰 Published Articles
+## 📰 Published Articles:
 
 ### 📍 Content Marketing & Content Strategy
 
