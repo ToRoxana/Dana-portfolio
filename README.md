@@ -12,10 +12,11 @@ Working with many editors and content managers, and collaborating with tech star
 
 
 ## My 🎯 Writing Experience
-- Collaborated with:
- **Digital Tailors** | **Softbinator** | **Code Truck** 
-| **e-student.org**   | **CyberGhost**  | **Altrady**     
-| **BWARE LABS**      | **studyportals** | **3DLOOK** | 
+| Collaborated with | Logo |
+|---|---|
+ **[Digital Tailors](https://www.digitaltailors.agency)![ ](logoDT.png)** | **[Softbinator](https://softbinator.com)** | **[Code Truck](https://codetruck.io)** 
+| **[e-student.org](https://e-student.org)**   | **[CyberGhost](https://www.cyberghostvpn.com)**  | **[Altrady](https://www.altrady.com)**     
+| **[BWARE LABS](https://bwarelabs.com)**      | **[studyportals](https://studyportals.com)** | **[3DLOOK](https://3dlook.ai)** | 
 
 
 ## Check out part of my portfolio
