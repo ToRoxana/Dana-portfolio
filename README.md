@@ -1,5 +1,5 @@
 # 🖋️ Content Marketer & Consultant
-Content writer | Copywriter | SEO skills | English translator
+Content Writer | Copywriter | SEO skills | English Translator
 
 ---
 
