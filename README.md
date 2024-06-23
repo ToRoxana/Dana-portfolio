@@ -71,7 +71,7 @@ Working with many editors and content managers, and collaborating with tech star
 
 # 🔗[Get in Touch](https://ro.linkedin.com/in/daniela-dana-valentina-vioreanu-48617b3a)
 
-Happy to embark on a new content adventure!
+## Happy to embark on a new content adventure!
 
 In case you're reaching out for a project collaboration, please provide some information on your goals.
 
